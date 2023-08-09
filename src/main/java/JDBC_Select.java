@@ -19,6 +19,5 @@ public class JDBC_Select {
 
         con.close ();
         ps.close ();
-
     }
 }
